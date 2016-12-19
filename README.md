@@ -1,0 +1,2 @@
+# ImplementationOdDataStructureOptionalProject7
+Implemented the following problems-> 1) Use Java's HashMap to find the most frequently appearing element in an array: public static&lt;T> T mostFrequent(T[] arr) If there is a tie, among the elements that are most frequent, return the one that appears at the smallest index of the array. 2) Compare the performances of Trees, Lists, Skip lists, and Hashing on the operations add, contains, remove.  For Tree, List, and Hashing,use the Java library 
