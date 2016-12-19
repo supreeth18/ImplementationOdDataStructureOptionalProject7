@@ -1,0 +1,23 @@
+Program was run for SIZE = 1000000
+
+Time taken to insert in a tree map : 0
+Time taken to insert in a linked list : 0
+Time taken to insert in a hash set : 0
+
+Search for an Element 334030
+true
+Time taken to Search in a tree map : 0
+true
+Time taken to Search in a linked list : 8
+true
+Time taken to Search in a hash set : 0
+
+Number to be deleted is : 752069
+
+Time taken to delete in a tree map : 0
+Number to be deleted is : 98921
+
+Time taken to delete in a linked list : 4
+Number to be deleted is : 587259
+
+Time taken to delete in a hash set : 0
